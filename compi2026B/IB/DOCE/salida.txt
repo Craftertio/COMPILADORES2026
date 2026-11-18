@@ -1,0 +1,4 @@
+Hexadecimal: 0x1A3F -> Decimal: 6719
+Hexadecimal: 0xFF -> Decimal: 255
+Hexadecimal: 0x10 -> Decimal: 16
+Hexadecimal: 0xABCDEF -> Decimal: 11259375

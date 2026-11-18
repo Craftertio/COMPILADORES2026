@@ -1,0 +1,11 @@
+--- TABLA DE FRECUENCIAS ---
+Digito 0: 3 veces
+Digito 1: 1 veces
+Digito 2: 3 veces
+Digito 3: 1 veces
+Digito 4: 0 veces
+Digito 5: 0 veces
+Digito 6: 1 veces
+Digito 7: 2 veces
+Digito 8: 2 veces
+Digito 9: 2 veces

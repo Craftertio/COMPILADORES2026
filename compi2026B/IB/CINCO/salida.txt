@@ -1,0 +1,4 @@
+Mayusculas: 9
+Minusculas: 21
+Digitos: 6
+Espacios/Saltos: 10

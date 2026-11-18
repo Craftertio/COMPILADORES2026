@@ -1,0 +1,21 @@
+# Generados por flex
+**/lex.yy.c
+
+# Ejecutables
+compi2026B/IB/UNO/uno
+compi2026B/IB/DOS/dos
+compi2026B/IB/TRES/tres
+compi2026B/IB/CUATRO/cuatro
+compi2026B/IB/CINCO/cinco
+compi2026B/IB/SEIS/seis
+compi2026B/IB/SIETE/siete
+compi2026B/IB/OCHO/ocho
+compi2026B/IB/NUEVE/nueve
+compi2026B/IB/DIEZ/diez
+compi2026B/IB/ONCE/once
+compi2026B/IB/DOCE/doce
+compi2026B/IB/TRECE/trece
+
+# Basura de editor
+*.swp
+*~

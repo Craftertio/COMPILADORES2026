@@ -1,0 +1,9 @@
+Comando inicio ejecutado
+
+hola mundo
+Comando pare recibido
+
+Comando inicio ejecutado
+ de prueba
+Comando pare recibido
+

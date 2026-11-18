@@ -1,0 +1,12 @@
+Valido (IDENTIFICADOR): variable1
+Separador (COMA)
+Valido (ENTERO): 100
+Separador (COMA)
+Valido (IDENTIFICADOR): suma_total
+Separador (COMA)
+Valido (ENTERO): 456
+Separador (COMA)
+ERROR LEXICO: '@'
+Valido (IDENTIFICADOR): error_simbolo
+Separador (COMA)
+Valido (IDENTIFICADOR): var2
